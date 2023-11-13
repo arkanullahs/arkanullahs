@@ -16,8 +16,6 @@
     </a>
    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://www.java.com/_cache_114a/_themesdelivery/JCOM_Base_Theme/assets/img/Java-horz-wht.svg" alt="Java" width="40" height="40"/>
-</a>
-
     </a>
     <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
         <img src="URL_TO_CPP_ICON" alt="C++" width="40" height="40"/>
