@@ -10,4 +10,18 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<p align="left">
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+    </a>
+    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+        <img src="(https://www.java.com/_cache_114a/_themesdelivery/JCOM_Base_Theme/assets/img/Java-horz-wht.svg)" alt="Java" width="40" height="40"/>
+    </a>
+    <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+        <img src="URL_TO_CPP_ICON" alt="C++" width="40" height="40"/>
+    </a>
+    <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+        <img src="URL_TO_FLUTTER_ICON" alt="Flutter" width="40" height="40"/>
+    </a>
+    <!-- Add other tools/icons as needed -->
+</p>
