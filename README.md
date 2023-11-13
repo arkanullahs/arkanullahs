@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arkanullah Saad</h1>
 <h3 align="center">A passionate Computer Science Engineering student from Bangladesh</h3>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C**,**C++**,**JAVA**,**DART**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
