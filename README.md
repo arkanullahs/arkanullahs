@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arkanullah Saad</h1>
-<h3 align="center">A passionate Computer Science Engineering student studying at Ahsanullah University of Science and Technology
+<h3 align="center">A passionate Computer Science Engineering student studying at Ahsanullah University of Science and Technology<br/>
     from
     Dhaka,Bangladesh.</h3>
 
