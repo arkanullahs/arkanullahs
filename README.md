@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arkanullah Saad</h1>
-<h3 align="center">A passionate Computer Science Engineering student studying at Ahsanullah University of Science and Technology from Dhaka,Bangladesh.</h3>
+<h3 align="center">A passionate Computer Science Engineering student studying at Ahsanullah University of Science and Technology   from    Dhaka,Bangladesh.</h3>
 
 - 🌱 I’m currently learning **C**, **C++**, **Java**, **Dart**
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkanullahs&label=Profile%20views&color=0e75b6&style=flat" alt="arkanullahs" /> </p>
