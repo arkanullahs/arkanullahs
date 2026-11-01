@@ -13,7 +13,7 @@
 
 ## 🔥 Currently building
 
-### 📱 [Bhalo Phone](https://bhalophone.com)
+### 📱 [BhaloPhone](https://bhalophone.com)
 > Live phone prices from 16 Bangladeshi shops, official vs unofficial, and the best phone for your budget.
 
 - 🔎 Tracks 1,000+ phones daily, with a monthly [price report](https://bhalophone.com/price-report)
