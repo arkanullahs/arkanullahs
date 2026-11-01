@@ -11,6 +11,14 @@
 
 ---
 
+## 🔥 Currently building
+
+### 📱 [Bhalo Phone](https://bhalophone.com)
+> Live phone prices from 16 Bangladeshi shops, official vs unofficial, and the best phone for your budget.
+
+- 🔎 Tracks 1,000+ phones daily, with a monthly [price report](https://bhalophone.com/price-report)
+- 🧠 Picks ranked on measured chip performance and real reviewer opinions
+
 ## 🚀 Highlighted Projects
 
 ### 📚 [NextEd](https://github.com/arkanullahs/nextEd)
